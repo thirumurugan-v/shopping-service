@@ -1,4 +1,4 @@
-namespace Shopping.Catalog.API
+namespace Shopping.Catalogue.API
 {
     public class WeatherForecast
     {

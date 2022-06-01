@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Catalog.API", "Shopping.Catalog.API\Shopping.Catalog.API.csproj", "{2362DB44-CED4-45C7-89FD-7EBE4B1C5547}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Catalogue.API", "Shopping.Catalog.API\Shopping.Catalogue.API.csproj", "{2362DB44-CED4-45C7-89FD-7EBE4B1C5547}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.Catalog.Domain", "Shopping.Catalog.Domain\Shopping.Catalog.Domain.csproj", "{60306DE0-9B5D-4624-8CEB-9E322CBFCCE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Catalogue.Domain", "Shopping.Catalog.Domain\Shopping.Catalogue.Domain.csproj", "{60306DE0-9B5D-4624-8CEB-9E322CBFCCE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.Catalog.Infrastructure", "Shopping.Catalog.Infrastructure\Shopping.Catalog.Infrastructure.csproj", "{D1B95AD4-010C-40F2-BAB0-3C3722BDA63F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Catalogue.Infrastructure", "Shopping.Catalog.Infrastructure\Shopping.Catalogue.Infrastructure.csproj", "{D1B95AD4-010C-40F2-BAB0-3C3722BDA63F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.Catalog.UnitTest", "Shopping.Catalog.UnitTest\Shopping.Catalog.UnitTest.csproj", "{2B5E7E8E-2F13-4135-A916-86DA9FDE662B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Catalogue.UnitTest", "Shopping.Catalog.UnitTest\Shopping.Catalogue.UnitTest.csproj", "{2B5E7E8E-2F13-4135-A916-86DA9FDE662B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

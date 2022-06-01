@@ -1,4 +1,4 @@
-﻿namespace Shopping.Catalog.Infrastructure
+﻿namespace Shopping.Catalogue.Infrastructure
 {
     public class Class1
     {

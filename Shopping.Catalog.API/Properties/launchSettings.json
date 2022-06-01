@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "Shopping.Catalog.API": {
+    "Shopping.Catalogue.API": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",

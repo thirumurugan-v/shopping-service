@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace Shopping.Catalog.UnitTest
+namespace Shopping.Catalogue.UnitTest
 {
     public class UnitTest1
     {

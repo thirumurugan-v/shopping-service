@@ -14,8 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shopping.Catalog.Domain\Shopping.Catalog.Domain.csproj" />
-    <ProjectReference Include="..\Shopping.Catalog.Infrastructure\Shopping.Catalog.Infrastructure.csproj" />
+    <ProjectReference Include="..\Shopping.Catalog.Domain\Shopping.Catalogue.Domain.csproj" />
+    <ProjectReference Include="..\Shopping.Catalog.Infrastructure\Shopping.Catalogue.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
